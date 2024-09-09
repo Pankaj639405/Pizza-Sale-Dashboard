@@ -34,3 +34,8 @@ This project involves analyzing pizza sales data to gain insights into various a
 - Bottom 5 Pizzas by Quantity
 - Top 5 Pizzas by Total Orders
 - Bottom 5 Pizzas by Total Orders
+### Power BI Report Links:
+
+- **PDF Report**: [](#)
+- **SQL File**: [](#)
+- **Power BI Desktop File**: [https://app.powerbi.com/groups/me/reports/9467e040-f938-4bd1-9cbb-fe2354604cc0/ReportSection?experience=power-bi](#)

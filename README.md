@@ -38,8 +38,8 @@ This project involves analyzing pizza sales data to gain insights into various a
 
 ## LINKS
 - **SQL Query**
-[Link](https://github.com/uds822/Pizza_Sales-Analysis-using-SQL-and-Power-BI/blob/main/Pizza%20sales%20sql%20quries.pdf)
+[Link](https://drive.google.com/file/d/1Qnd7TF9kdZk1yOvoOjPipcfj7-hpZ6Dn/view?usp=drive_link)
 - **Power BI Report**
- [Link](https://github.com/uds822/Pizza_Sales-Analysis-using-SQL-and-Power-BI/blob/main/Pizza_sales_Dashboard.pdf)
+ [Link](https://drive.google.com/file/d/1tYzDa7mNz9dB9wkRvL9pXgw1-OcG4ypt/view?usp=drive_link)
 - **Power Bi Dashboard**
    [Link](https://app.powerbi.com/groups/me/reports/9467e040-f938-4bd1-9cbb-fe2354604cc0/ReportSection?experience=power-bi)
